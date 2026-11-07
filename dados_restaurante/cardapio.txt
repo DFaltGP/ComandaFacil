@@ -1,0 +1,6 @@
+BEBIDA;101;Suco Natural de Laranja;12.50;500;True
+BEBIDA;102;Refrigerante Guaraná;8.00;350;True
+BEBIDA;103;Café Espresso Gourmet;6.50;120;False
+PRATO_PRINCIPAL;201;Feijoada Tradicional Completa;48.90;Feijão preto, carnes nobres, arroz, couve refogada, farofa e laranja;25
+PRATO_PRINCIPAL;202;Filé de Frango Grelhado com Legumes;34.00;Peito de frango selecionado, brócolis, cenoura no vapor e arroz integral;18
+PRATO_PRINCIPAL;203;Lasanha Artesanal à Bolonhesa;42.00;Massa fresca, molho de carne especial, queijo muçarela e parmesão gratinado;30

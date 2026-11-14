@@ -1,6 +1,6 @@
-# Sistema de Gestão de Restaurante - .NET 10 & C# 15
+# Sistema de Gestão de Restaurante - .NET 10 & C# 14
 
-Aplicação console desenvolvida seguindo rigorosamente o diagrama de classes da Etapa 1, estruturada com base nas boas práticas de desenvolvimento de software, Clean Code, os 4 pilares da Programação Orientada a Objetos (POO) e recursos nativos da plataforma .NET 10 com C# 15.
+Aplicação console desenvolvida seguindo rigorosamente o diagrama de classes da Etapa 1, estruturada com base nas boas práticas de desenvolvimento de software, Clean Code, os 4 pilares da Programação Orientada a Objetos (POO) e recursos nativos da plataforma .NET 10 com C# 14.
 
 ---
 
